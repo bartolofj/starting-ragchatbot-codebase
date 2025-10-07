@@ -200,3 +200,4 @@ Sources flow from search tool → tool manager → RAG system → API → fronte
 General knowledge: "What is Python?" (no search, direct answer)
 Course content: "What is MCP?" (triggers search, returns course content)
 Filtered search: "Explain X in course Y" (search with course filter)
+- never start the server, I will always do it myself
